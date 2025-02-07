@@ -1,0 +1,6 @@
+File_name,num_point,dimension,cluster,avg_time_ms,avg_iter
+dataset_2000_3_5.txt,2000,3,5,10,33
+dataset_5000_50_10.txt,5000,50,10,919,65
+dataset_10000_20_10.txt,10000,20,10,1321,124
+dataset_20000_80_15.txt,20000,80,15,18822,160
+dataset_50000_5_15.txt,50000,5,15,3177,101
