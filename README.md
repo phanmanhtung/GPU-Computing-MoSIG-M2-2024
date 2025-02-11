@@ -2,6 +2,10 @@
 
 # GPU Project: Performance Comparison of CUDA, C, and Sklearn Implementations
 
+Execution links (Google Colab and Kaggle):
+https://colab.research.google.com/drive/1vpltxzfHKNG9DiqE_v_im-JGdFZJXZ73?usp=sharing
+https://www.kaggle.com/code/phanmanhtung/gpu-computing-project
+
 This project focuses on benchmarking the performance of different implementations—**CUDA**, **C**, and **Sklearn**—for kmean algorithm. The goal is to analyze execution efficiency, scalability, and the impact of GPU acceleration using CUDA compared to traditional CPU-based approaches.
 
 ## 📂 **Project Structure**
